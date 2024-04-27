@@ -1,0 +1,43 @@
+
+
+
+
+#pick {
+    width: 58px;
+    height: 30px;
+    border-radius: 20px;
+}
+
+#pick option {
+    text-align: center;
+    
+}
+
+#label1 {
+    margin-left: 15px;
+
+}
+
+
+#subtitle {
+    font-size: 15px;
+    margin-left: 15px;
+}
+
+#btnUP {
+    color: white;
+
+}
+
+#btnUP2 {
+    color: white;
+}
+
+#reset {
+    color: white;
+
+}
+
+#playerOne {
+    margin-left: 15px;
+}
